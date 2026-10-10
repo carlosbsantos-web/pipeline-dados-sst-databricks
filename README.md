@@ -1,5 +1,8 @@
 # 📊 Pipeline Analítico de SST - Engenharia de Dados com Databricks e Spark
 
+![Dashboard de SST](Dashboard_Pipeline_Dados.png)
+
+
 Este repositório contém um projeto analítico de ponta a ponta focado em Saúde e Segurança do Trabalho (SST), desenvolvido integralmente na plataforma **Databricks** utilizando a **Arquitetura Medalhão**.
 
 O objetivo principal é processar logs operacionais brutos de ocorrências de segurança para extrair indicadores executivos de riscos corporativos que apoiem tomadores de decisão na prevenção de acidentes.
